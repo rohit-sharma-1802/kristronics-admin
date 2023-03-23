@@ -39,5 +39,5 @@ If you can help to imrove the project, pull the request.
 
 ## Support
 
-For support, email rohitsharmatech-9@gmail.com or join our Slack channel.
+For support, email rohitsharmatech9@gmail.com or join our Slack channel.
 
